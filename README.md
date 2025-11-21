@@ -1,6 +1,6 @@
 # Zahlensystem-Konverter (GUI)
 
-Eine Desktop-Anwendung zur bidirektionalen Umrechnung zwischen Dezimal- und Dualsystem (Binärsystem), entwickelt mit Python und PyQt5.
+Eine Desktop-Anwendung zur bidirektionalen Umrechnung zwischen Dezimal- und Dualsystem (Binärsystem), entwickelt mit Python und PyQt5
 
 ## Aufgabenstellung
 Entwicklung eines Programms mit grafischer Oberfläche, das folgende Funktionen bietet:
